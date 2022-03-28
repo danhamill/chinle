@@ -9,15 +9,8 @@ uth*
 *.bil
 *.zip
 *.hdr
-*.stx
 *.stn.csv
-*.prj
 *.info.txt
-*.shp
-*.shx
-*.cpg
-*.qpj
-*.dbf
 *.dss
 *.csv
 *.sbn
